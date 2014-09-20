@@ -1,0 +1,44 @@
+.imagini img 
+{
+width: 10%;
+
+}
+.imagini a
+{
+display:block;
+}
+.imagini
+{
+  text-align:center;
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#inputText
+{
+color: red;
+	font-size: 20pt;
+	color: blue;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: "lucida grande", sans-serif;
+	padding: 10px 7px 10px 7px;
+}
+#butonVorbeste
+{
+	float: right;
+	margin-left: auto;
+}
+#butonSterge
+{
+	float: left;
+	margin-left: auto;
+}
+#spatiu
+{
+width:50%;
+height:20%;
+display:inline;
+}
